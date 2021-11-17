@@ -1,0 +1,17 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "electron tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "kunigami",
+  "license": "ISC",
+  "devDependencies": {
+    "chart.js": "^3.6.0",
+    "dayjs": "^1.10.7",
+    "electron": "^14.0.0"
+  }
+}
